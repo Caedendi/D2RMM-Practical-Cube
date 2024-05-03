@@ -1,0 +1,30 @@
+{
+  "name": "Practical Cube",
+  "description": "Puts the Horadric Cube window directly next to the inventory for easier cubing.",
+  "author": "NDState, Caedendi",
+  "website": "https://www.nexusmods.com/diablo2resurrected/mods/411",
+  "version": "2.0",
+  "config": [
+    {
+      "id": "ShouldRemoveSidePanels",
+      "type": "checkbox",
+      "name": "Remove Side Panels",
+      "description": "Remove the panels on the left and right side of the screen.",
+      "defaultValue": true
+    },
+    {
+      "id": "ShouldScaleTransmuteButton",
+      "type": "checkbox",
+      "name": "Scale Transmute Button 1.5x",
+      "description": "Scale the transmute button to 1.5x size.",
+      "defaultValue": false
+    },
+    {
+      "id": "IsExpandedInventory",
+      "type": "checkbox",
+      "name": "olegbl's Expanded Inventory (13x8) Compatibility",
+      "description": "Enable if you use oleglbl's Expanded Inventory (13x8) mod.",
+      "defaultValue": false
+    }
+  ]
+}
