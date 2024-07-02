@@ -1,6 +1,6 @@
 # Practical Cube for D2RMM
 
-Quality of Life mod that consolidates the cube from a screen-filling window to a small window directly next to the inventory for quick inventory management and transmuting.
+Quality of Life mod that consolidates the cube from a screen-filling window to a small window directly next to the inventory for quicker item management and transmutation.
 
 Supports both the default inventory UI and [olegbl](https://www.nexusmods.com/diablo2resurrected/users/353885)'s [Expanded Inventory](https://www.nexusmods.com/diablo2resurrected/mods/172) mod.
 
@@ -37,7 +37,7 @@ Supports both the default inventory UI and [olegbl](https://www.nexusmods.com/di
 ### 2.0.0
 - default and expanded inventory versions are now merged and can be toggled with a D2RMM setting
 - made removal of the side panels optional with a D2RMM setting
-- made scaling the transmute button to 1.5x size optional with a D2RMM setting
+- made scaling of the transmute button to 1.5x size optional with a D2RMM setting
 - support for low vision mode (_profilelv.json)
 - fixed placement of some elements with a slight repositioning
 
