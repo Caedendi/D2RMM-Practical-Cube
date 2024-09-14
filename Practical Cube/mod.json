@@ -3,7 +3,7 @@
   "description": "Puts the Horadric Cube window directly next to the inventory for easier cubing.",
   "author": "NDState, Caedendi",
   "website": "https://www.nexusmods.com/diablo2resurrected/mods/411",
-  "version": "2.0",
+  "version": "2.0.0",
   "config": [
     {
       "id": "ShouldRemoveSidePanels",
@@ -22,7 +22,7 @@
     {
       "id": "IsExpandedInventory",
       "type": "checkbox",
-      "name": "olegbl's Expanded Inventory (13x8) Compatibility",
+      "name": "Expanded Inventory (13x8) Compatibility",
       "description": "Enable if you use oleglbl's Expanded Inventory (13x8) mod.",
       "defaultValue": false
     }
