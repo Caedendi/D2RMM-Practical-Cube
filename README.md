@@ -2,16 +2,16 @@
 
 Quality of Life mod that consolidates the cube from a screen-filling window to a small window directly next to the inventory for quick inventory management and transmuting.
 
-Supports both the default inventory UI and [olegbl](https://www.nexusmods.com/diablo2resurrected/users/353885)'s [Expanded Inventory](https://www.nexusmods.com/diablo2resurrected/mods/172) mod.
+Supports both the default inventory UI and [olegbl](https://www.nexusmods.com/users/353885)'s [Expanded Inventory](https://www.nexusmods.com/diablo2resurrected/mods/172) mod.
 
 
 ## Table of Contents
 
 - [Screenshots](#screenshots)
 - [Changelog](#changelog)
-  - [2.0.0](#200)
-  - [1.1](#11)
-  - [1.0](#10)
+  - [2.0.0 - Caedendi](#200---caedendi)
+  - [1.1 - NDState](#11---ndstate)
+  - [1.0 - NDState](#10---ndstate)
 - [How to Install](#how-to-install)
 - [Features](#features)
 - [Roadmap](#roadmap)
@@ -34,18 +34,18 @@ Supports both the default inventory UI and [olegbl](https://www.nexusmods.com/di
 
 ## Changelog
 
-### 2.0.0
-- default and expanded inventory versions are now merged and can be toggled with a D2RMM setting
+### 2.0.0 - [Caedendi](https://www.nexusmods.com/users/179695179)
+- default and expanded inventory versions have been merged and can now be toggled with a D2RMM setting
 - made removal of the side panels optional with a D2RMM setting
 - made scaling the transmute button to 1.5x size optional with a D2RMM setting
 - support for low vision mode (_profilelv.json)
-- fixed placement of some elements with a slight repositioning
+- fixed placement of some elements by slightly repositioning them
 
-### 1.1
+### 1.1 - [NDState](https://www.nexusmods.com/users/6397569)
 - fixed inventory interaction bugs such as tome of IDs/portals not working, not being able to click on items, etc
 - removed hinges/side frames since it was weird with them there.
 
-### 1.0
+### 1.0 - [NDState](https://www.nexusmods.com/users/6397569)
 - initial uploads, 2 versions, one for default inventory position, one for Expanded inventory by Olegbl
 
 
@@ -68,7 +68,6 @@ Supports both the default inventory UI and [olegbl](https://www.nexusmods.com/di
 
 ## Roadmap
 
-- [ ] Support for [olegbl](https://www.nexusmods.com/diablo2resurrected/users/353885)'s [Expanded Inventory](https://www.nexusmods.com/diablo2resurrected/mods/172) mod as suggested by [Salexandru71](https://www.nexusmods.com/diablo2resurrected/users/160899598)
 - [ ] Support for controller mode
 
 
